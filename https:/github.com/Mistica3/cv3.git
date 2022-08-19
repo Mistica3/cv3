@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Mistica</title>
+<link rel="stylesheet" href="css/styles.css">  </head>
+<link rel="icon" href="favicon.ico">
+</head>
+<body>
+<div class="top-container">
+      <img class="top-cloud"src="images/cloud.png" alt=cloud.png>
+
+      <h1>I'm Mistica</h1>
+    <p>a Online Tutor</p>
+      <img class="bottom-cloud" src="images/cloud.png" alt=cloud.png>
+      <img class="mountain"src="images/mountain.png" alt=mountain.png>
+  </div>
+  <div class="middle-container">
+    <div class="profile">
+      <img src="images/mistica1.jpg" alt="mistica1.jpg">
+      <h2>Hello.</h2>
+      <p>I'm a Online Tutor, working in Focus Edumatics.</p>
+    </div>
+    <hr>
+    <div class="skills">
+      <h2>My Skills.</h2>
+      <div class="skill-row">
+        <img class="skill-row" src="images/skills.jfif" alt="skills.jfif">
+        <h3>Skills</h3>
+        <p>kddjhdshdhs</p>
+      </div>
+      <div class="skill-row">
+        <img class="skill-row" src="images/skills1.jfif" alt="skills1.jfif">
+        <h3>Programming Language</h3>
+        <p>C, c++, Java, SQL, R</p>
+      </div>
+    </div>
+    <hr>
+    <div class="contact-me">
+      <h2>Get In Touch</h2>
+      <h3>If you love Maths as much I do!</h3>
+            <a class="btn" href="mailto:mistij030599@email.com">CONTACT ME</a>
+    </div>
+  </div>
+
+
+  <div class="bottom-container">
+    <a class="footer-link" href="https://www.linkedin.com/in/rosa-mistica-0729bb205">LinkedIn</a>
+        <p>Mistica</p>
+  </div>
+
+</body>
+
+</html>
